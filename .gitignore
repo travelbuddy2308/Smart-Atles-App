@@ -1,0 +1,10 @@
+__pycache__/ 
+*.pyc 
+*.db 
+temp.mp3 
+.streamlit/secrets.toml 
+venv/ 
+__pycache__/ 
+*.pyc 
+*.db 
+*.mp3 

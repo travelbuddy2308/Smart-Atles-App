@@ -1,0 +1,131 @@
+2026-03-03 02:20:15,905 ERROR services.places_service — POI fetch failed (category=tourism): HTTPSConnectionPool(host='api.geoapify.com', port=443): Read timed out. (read timeout=12)
+2026-03-03 02:36:45,604 ERROR map_p — Geocoding failed for 'Mumbai': HTTPSConnectionPool(host='api.geoapify.com', port=443): Read timed out. (read timeout=8)
+2026-03-15 16:01:53,278 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:01:53,300 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:01:59,372 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:01:59,374 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:02:00,093 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:02:01,432 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:02:05,054 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:02:05,055 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:02:09,850 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-15 16:02:21,332 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:21,352 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:26,664 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:29,636 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:29,983 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:38,660 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:50,681 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:50,682 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:02:51,198 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:57,372 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:02:57,687 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:03:10,157 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:03:10,158 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:03:21,399 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:03:31,764 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:03:31,765 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:03:32,028 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:03:42,609 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:03:42,610 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:05:56,190 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:06:06,376 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:06:06,379 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:06:06,628 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:06:17,200 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:06:17,204 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-15 16:06:44,478 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:06:54,625 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-15 16:06:54,628 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-16 16:20:17,926 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: No module named 'openpyxl'
+2026-03-16 16:23:27,331 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 16:23:27,360 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 16:23:31,222 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 16:23:31,226 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-16 16:23:32,425 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 16:23:35,099 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 16:23:35,101 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-16 16:24:17,649 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 16:26:31,209 ERROR excel_logger — excel_logger: _append_row failed for Signup_Data: No module named 'openpyxl'
+2026-03-16 16:26:45,287 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: No module named 'openpyxl'
+2026-03-16 16:30:12,961 INFO excel_logger — excel_logger: wrote to Login_Data row 2
+2026-03-16 16:32:38,401 ERROR services.weather_service — Weather API error: HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?q=Mumbai&units=metric&appid=69708eef6720d2f1753c6f1fe4d4f1fb (Caused by NameResolutionError("HTTPSConnection(host='api.openweathermap.org', port=443): Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:38,406 ERROR services.places_service — Geocoding failed for 'Mumbai': HTTPSConnectionPool(host='api.geoapify.com', port=443): Max retries exceeded with url: /v1/geocode/search?text=Mumbai&limit=1&apiKey=57d6ed8412e64670a57ab2a221db7ac3 (Caused by NameResolutionError("HTTPSConnection(host='api.geoapify.com', port=443): Failed to resolve 'api.geoapify.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:38,407 WARNING services.places_service — Could not geocode city: Mumbai
+2026-03-16 16:32:45,255 ERROR services.weather_service — Weather API error: HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?q=Mumbai&units=metric&appid=69708eef6720d2f1753c6f1fe4d4f1fb (Caused by NameResolutionError("HTTPSConnection(host='api.openweathermap.org', port=443): Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:45,258 ERROR services.places_service — Geocoding failed for 'Mumbai': HTTPSConnectionPool(host='api.geoapify.com', port=443): Max retries exceeded with url: /v1/geocode/search?text=Mumbai&limit=1&apiKey=57d6ed8412e64670a57ab2a221db7ac3 (Caused by NameResolutionError("HTTPSConnection(host='api.geoapify.com', port=443): Failed to resolve 'api.geoapify.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:45,259 WARNING services.places_service — Could not geocode city: Mumbai
+2026-03-16 16:32:55,140 ERROR services.weather_service — Weather API error: HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?q=Mumbai&units=metric&appid=69708eef6720d2f1753c6f1fe4d4f1fb (Caused by NameResolutionError("HTTPSConnection(host='api.openweathermap.org', port=443): Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:55,145 ERROR services.places_service — Geocoding failed for 'Mumbai': HTTPSConnectionPool(host='api.geoapify.com', port=443): Max retries exceeded with url: /v1/geocode/search?text=Mumbai&limit=1&apiKey=57d6ed8412e64670a57ab2a221db7ac3 (Caused by NameResolutionError("HTTPSConnection(host='api.geoapify.com', port=443): Failed to resolve 'api.geoapify.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:55,146 WARNING services.places_service — Could not geocode city: Mumbai
+2026-03-16 16:32:59,111 ERROR services.weather_service — Weather API error: HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?q=Mumbai&units=metric&appid=69708eef6720d2f1753c6f1fe4d4f1fb (Caused by NameResolutionError("HTTPSConnection(host='api.openweathermap.org', port=443): Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:59,115 ERROR services.places_service — Geocoding failed for 'Mumbai': HTTPSConnectionPool(host='api.geoapify.com', port=443): Max retries exceeded with url: /v1/geocode/search?text=Mumbai&limit=1&apiKey=57d6ed8412e64670a57ab2a221db7ac3 (Caused by NameResolutionError("HTTPSConnection(host='api.geoapify.com', port=443): Failed to resolve 'api.geoapify.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 16:32:59,116 WARNING services.places_service — Could not geocode city: Mumbai
+2026-03-16 16:33:09,614 ERROR map_p — Geocoding failed for 'Maharashtra': HTTPSConnectionPool(host='api.geoapify.com', port=443): Max retries exceeded with url: /v1/geocode/search?text=Maharashtra&apiKey=57d6ed8412e64670a57ab2a221db7ac3 (Caused by NameResolutionError("HTTPSConnection(host='api.geoapify.com', port=443): Failed to resolve 'api.geoapify.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-16 18:59:07,313 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-16 18:59:43,279 INFO excel_logger — excel_logger: wrote to Login_Data row 3
+2026-03-16 19:04:02,174 ERROR excel_logger — excel_logger: _append_row failed for Signup_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-16 19:04:07,585 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-16 19:04:31,725 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:04:36,833 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:04:41,921 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:04:47,356 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:04:59,124 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:05:00,677 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:06:04,691 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:04,693 ERROR itinerary_generator — Excel itinerary log failed: name 'date' is not defined
+2026-03-16 19:06:04,707 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:17,112 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:17,731 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:31,591 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:31,900 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:33,630 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:35,024 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:06:35,118 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:06:48,397 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:06:48,517 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:06:48,521 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:06:49,319 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:49,628 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:51,612 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:06:58,067 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:01,855 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:02,076 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:04,668 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:07,889 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:11,918 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:23,593 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:25,026 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:25,194 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:27,532 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:27,852 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:28,145 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:40,151 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:40,155 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:47,144 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:47,969 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:47,971 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:07:58,221 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:07:58,221 WARNING services.audio_service — pyttsx3 TTS failed: No module named 'pyttsx3'
+2026-03-16 19:07:58,566 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:08:20,793 WARNING services.map_service — Transport stop fetch failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:08:25,106 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:08:36,772 WARNING services.audio_service — gTTS failed (lang=hi): No module named 'gtts'
+2026-03-16 19:08:57,686 WARNING services.map_service — Transport stop fetch failed: 429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+2026-03-16 19:09:39,818 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:09:43,140 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:09:46,469 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:09:52,613 WARNING services.audio_service — gTTS failed (lang=en): No module named 'gtts'
+2026-03-16 19:13:08,783 ERROR excel_logger — excel_logger: _append_row failed for Feedback_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-16 20:10:12,674 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-16 20:10:12,799 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-17 08:45:03,018 INFO excel_logger — excel_logger: wrote to Signup_Data row 2
+2026-03-17 08:46:05,847 INFO excel_logger — excel_logger: wrote to Login_Data row 4
+2026-03-17 09:40:57,821 INFO excel_logger — excel_logger: wrote to Signup_Data row 3
+2026-03-17 09:41:30,216 INFO excel_logger — excel_logger: wrote to Login_Data row 5
+2026-03-17 10:31:46,683 INFO excel_logger — excel_logger: wrote to Login_Data row 6
+2026-03-17 10:33:50,559 ERROR itinerary_generator — Excel itinerary log failed: name 'date' is not defined
+2026-03-17 10:48:44,972 ERROR excel_logger — excel_logger: _append_row failed for Signup_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-17 10:57:18,504 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-17 11:06:16,168 ERROR excel_logger — excel_logger: _append_row failed for Login_Data: [Errno 13] Permission denied: 'smart_atlas_data.xlsx'
+2026-03-17 11:06:58,735 ERROR itinerary_generator — Excel itinerary log failed: name 'date' is not defined
